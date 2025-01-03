@@ -6,7 +6,8 @@ https://packagecontrol.io/packages/Emmet
 <img src="./emmet.png" width="100%">
 
 ## 2. ColorHelper
-
+https://packagecontrol.io/packages/ColorHelper
+<br><br>
 <img src="./colorHelper.png" width="100%">
 
 ## 3. Increment Selection
