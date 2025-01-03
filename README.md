@@ -17,5 +17,6 @@ https://packagecontrol.io/packages/ColorHelper
 </video>
 
 ## 4. Tailwind CSS AutoComplete
-
+https://packagecontrol.io/packages/Tailwind%20CSS%20Autocomplete
+<br><br>
 <img src="./tailwind.png" width="100%" align="center">
